@@ -1,0 +1,110 @@
+.left-horm {
+    -fx-background-color: linear-gradient(to bottom right, #2087d0, #696d72);
+    -fx-border-color: #000;
+    -fx-border-width: 0.4px 0px 0.4px 0.4px;
+}
+.close{
+-fx-background-color: #ff0000;
+}
+.loginbutton{
+  -fx-background-color: #A0DEFF;
+  -fx-background-radius: 15px;
+  -fx-text-fill: #fff;
+}
+.inputi{
+  -fx-background-radius: 15px;
+}
+.semi-form{
+-fx-background-color: #fff;
+-fx-border-color: #000;
+-fx-border-width: .4px .4px .2px .4px;
+}
+.upLine{
+-fx-background-color: #FFF9D0;
+}
+.leftButton{
+  -fx-background-radius: 15px;
+}
+.white-bg{
+  -fx-background-color:#CAF4FF;
+  -fx-background-radius :10px;
+}
+.buttoniavabilecars{
+  -fx-background-radius :10px;
+}
+
+.white-le{
+  -fx-background-color:#5AB2FF;
+  -fx-background-radius :10px;
+}
+.text-le{
+-fx-text-fill: #fff;
+}
+/*.white-le:hover {
+  -fx-background-color: #3A92DF; /* Promeni boju u tamniju nijansu plave kada se prelazi preko */
+  /*-fx-background-radius: 10px;  /* Zadrži isti ugao zaobljenosti} */
+
+
+.custom-button {
+    -fx-display: inline-block;
+    -fx-outline: none;
+    -fx-border-width: 0px;
+    -fx-border-radius: 3px;
+    -fx-box-sizing: border-box;
+    -fx-font-size: inherit;
+    -fx-text-align: center;
+    -fx-text-decoration: none;
+    -fx-transition: background 0.1s ease-out 0s, box-shadow 0.15s cubic-bezier(0.47, 0.03, 0.49, 1.38) 0s;
+    -fx-background-color: #A0DEFF;
+    -fx-cursor: pointer;
+    -fx-vertical-align: middle;
+    -fx-width: auto;
+    -fx-font-size: 14px;
+    -fx-text-fill: white;
+    -fx-background-radius :10px;
+
+        -font-weight: bold; /* Podebljavanje slova */
+}
+
+.custom-button:hover {
+    -fx-background-color: rgb(0, 101, 255);
+    -fx-text-decoration: inherit;
+    -fx-transition-duration: 0s, 0.15s;
+    -fx-text-fill: white;
+    -font-weight: bold; /* Podebljavanje slova */
+}
+
+.custom-klik {
+  -fx-display: inline-block;
+  -fx-outline: none;
+  -fx-border-width: 0px;
+  -fx-border-radius: 3px;
+  -fx-box-sizing: border-box;
+  -fx-font-size: inherit;
+  -fx-text-align: center;
+  -fx-text-decoration: none;
+  -fx-transition: background 0.1s ease-out 0s, box-shadow 0.15s cubic-bezier(0.47, 0.03, 0.49, 1.38) 0s;
+  -fx-background-color: #1a709f;
+  -fx-cursor: pointer;
+  -fx-vertical-align: middle;
+  -fx-width: auto;
+  -fx-font-size: 14px;
+  -fx-text-fill: white;
+  -fx-background-radius :10px;
+
+      -font-weight: bold; /* Podebljavanje slova */
+}
+
+.custom-button:hover {
+  -fx-background-color: rgb(39, 82, 147);
+  -fx-text-decoration: inherit;
+  -fx-transition-duration: 0s, 0.15s;
+  -fx-text-fill: white;
+  -font-weight: bold; /* Podebljavanje slova */
+}
+.labele{
+ -fx-background-radius: 15px;
+ }
+
+
+
